@@ -1,0 +1,68 @@
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\appsettings.Development.json
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\appsettings.json
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Sovtech-SWAP-CHUCK.exe
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Sovtech-SWAP-CHUCK.deps.json
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Sovtech-SWAP-CHUCK.runtimeconfig.json
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Sovtech-SWAP-CHUCK.dll
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Sovtech-SWAP-CHUCK.pdb
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.csproj.AssemblyReference.cache
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.AssemblyInfoInputs.cache
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.AssemblyInfo.cs
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.csproj.CoreCompileInputs.cache
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.MvcApplicationPartsAssemblyInfo.cs
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.MvcApplicationPartsAssemblyInfo.cache
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\staticwebassets.build.json
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\staticwebassets.development.json
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\scopedcss\bundle\Sovtech-SWAP-CHUCK.styles.css
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.csproj.CopyComplete
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.dll
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\refint\Sovtech-SWAP-CHUCK.dll
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.pdb
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.genruntimeconfig.cache
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\ref\Sovtech-SWAP-CHUCK.dll
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\System.Web.Http.dll
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\System.Web.Http.WebHost.dll
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\VS\test\Sovtech-SWAP-CHUCK\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\appsettings.Development.json
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\appsettings.json
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Sovtech-SWAP-CHUCK.exe
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Sovtech-SWAP-CHUCK.deps.json
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Sovtech-SWAP-CHUCK.runtimeconfig.json
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Sovtech-SWAP-CHUCK.dll
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Sovtech-SWAP-CHUCK.pdb
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\System.Web.Http.dll
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\System.Web.Http.WebHost.dll
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.csproj.AssemblyReference.cache
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.AssemblyInfoInputs.cache
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.AssemblyInfo.cs
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.csproj.CoreCompileInputs.cache
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.MvcApplicationPartsAssemblyInfo.cs
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.MvcApplicationPartsAssemblyInfo.cache
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\staticwebassets.build.json
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\staticwebassets.development.json
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\scopedcss\bundle\Sovtech-SWAP-CHUCK.styles.css
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.csproj.CopyComplete
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.dll
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\refint\Sovtech-SWAP-CHUCK.dll
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.pdb
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\Sovtech-SWAP-CHUCK.genruntimeconfig.cache
+C:\VS\Chuck Swapi Api & Front\Chuck Swapi Api\Sovtech-SWAP-CHUCK\obj\Debug\net6.0\ref\Sovtech-SWAP-CHUCK.dll
